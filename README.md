@@ -56,7 +56,9 @@ Visual Studio 2022 с установленным Windows SDK
 
 🧠 Полезные ресурсы
 Microsoft Docs: Windows Hooks (https://learn.microsoft.com/en-us/windows/win32/winmsg/about-hooks)
+
 UIAutomation Overview (https://learn.microsoft.com/en-us/windows/win32/winauto/uiauto-uiautomationoverview)
+
 nlohmann/json GitHub (https://github.com/nlohmann/json)
 
 Student Project – Cybersecurity 2nd Year
