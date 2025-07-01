@@ -1,0 +1,17 @@
+{
+  "whitelist": [ ],
+
+  "blacklist": [
+    "Telegram.exe",
+    "slack.exe",
+    "WhatsApp.exe",
+    "Teams.exe",
+    "steam.exe",
+    "games_launcher.exe",
+    "antivirus.exe",
+    "chrome_child.exe",
+    "defender.exe",
+    "Discord.exe",
+    "skype.exe"
+  ]
+}
