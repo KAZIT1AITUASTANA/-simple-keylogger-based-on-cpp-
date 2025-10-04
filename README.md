@@ -1,4 +1,4 @@
-# -simple-keylogger-based-on-cpp-
+# -simple-keylogger-based-on-cpp- (Only in education purposes)
 
 🛡️ Keylogger + UI Inspector (C++ / WinAPI)
 
